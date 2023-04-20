@@ -76,8 +76,10 @@ target/
 .ipynb_checkpoints/
 
 # exclude data from source control by default
-/data/
-
+/docs/
+/reports/
+/reference/
+LICENSE
 # Mac OS-specific storage files
 .DS_Store
 
